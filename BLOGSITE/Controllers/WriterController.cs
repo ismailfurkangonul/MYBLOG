@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BLOGSITE.Controllers
 {
-    [Authorize]
     public class WriterController : Controller
     {
+        [AllowAnonymous]
         
         public IActionResult Index()
         {
@@ -21,5 +21,12 @@ namespace BLOGSITE.Controllers
 
             return View();
         }
+        [AllowAnonymous]
+        public IActionResult Test()
+        {
+
+            return View();
+        }
+
     }
 }
