@@ -1,0 +1,12 @@
+E:\ECOMMERCE\BLOGSITE\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+E:\ECOMMERCE\BLOGSITE\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\ECOMMERCE\BLOGSITE\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+E:\ECOMMERCE\BLOGSITE\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
